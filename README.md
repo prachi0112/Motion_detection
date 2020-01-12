@@ -1,2 +1,2 @@
 # Motion_detection
-It detects the moving bodies in a video.
+This code detects the motion in a video and shows rectangular frame around the moving objects.
