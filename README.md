@@ -4,7 +4,7 @@ The noise created due to motion of very small objects can be removed by adjustin
 
 ## :camera:Screenshot
 
-![motion_detection] (https://github.com/prachi0112/Motion_detection/blob/master/motion_detection.png)
+[!motion_detection] (https://github.com/prachi0112/Motion_detection/blob/master/motion_detection.png)
 
 ## Technology Stack
 1. Python  
